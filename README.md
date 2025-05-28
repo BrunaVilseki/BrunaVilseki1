@@ -1,2 +1,2 @@
-# BrunaVilseki1
-Atividades relizadas na aula
+# Projeto-Contador-De-Tempo
+Projeto do Contador realizado nas aulas de Matemática II
